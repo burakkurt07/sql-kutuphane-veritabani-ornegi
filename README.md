@@ -1,4 +1,4 @@
-![resim](https://github.com/burakkurt07/sql-kutuphane-veritabani-ornegi/assets/121500513/ffb81aa3-4b21-4fc4-8943-82cec89ace0f)Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri
+Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri - Basit Bir Kütüphane SQL veritabanı örneği ver örnek kodlar
 
 Merhaba arkadaşlar! Bugün size Veritabanı-2 dersinin final uygulama sınavından çıktıktan sonra yaşadığım heyecanları ve soruları nasıl çözdüğümü anlatmak istiyorum. Veritabanı-2 Uygulama Final Sınavında, Hocamız bize basit bir kütüphane veritabanı tasarımı verdi ve bu veritabanı hakkında çeşitli sorular ve veritabanı ile ilgili uygulamalı sorular yer alıyordu. Hadi gelin, sınavınhangi sorularla karşılaştığımı ve SQL sorularına nasıl yanıtlar verdildiğine birlikte bakalım!!
 
