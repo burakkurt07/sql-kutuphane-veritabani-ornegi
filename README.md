@@ -5,7 +5,7 @@ Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri - Basi
 
 
 
-OLUŞTURMUŞ OLDUĞUN SQL VERİTABANININ DETAYLI VE AÇIKLAMALI ANLATIMINI MEDİUM MAKALEMDE BULABİLİRSİNİZ!
+OLUŞTURMUŞ OLDUĞUM SQL VERİTABANININ DETAYLI VE AÇIKLAMALI ANLATIMINI MEDİUM MAKALEMDE BULABİLİRSİNİZ!
 
 ---> https://medium.com/@burakkurt.me/k%C3%BCt%C3%BCphane-veritaban%C4%B1-kitaplar-ve-%C3%B6%C4%9Frenciler-i%CC%87%C3%A7in-sql-%C3%A7%C3%B6z%C3%BCmleri-f6f2dbb65551
 
