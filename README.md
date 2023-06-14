@@ -1,4 +1,5 @@
-Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri - Basit Bir Kütüphane SQL veritabanı örneği ver örnek kodlar
+[[Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri - Basit Bir SQL veritabanı örneği]]
+
 
 ![resim](https://github.com/burakkurt07/sql-kutuphane-veritabani-ornegi/assets/121500513/7c0817c6-1fcd-4d81-a5e1-f4ab7d86422f)
 
